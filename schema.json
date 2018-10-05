@@ -1,0 +1,27 @@
+[
+  {
+    "name": "tweet",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "username",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "userlocation",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "retweetcount",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "favoritecount",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
