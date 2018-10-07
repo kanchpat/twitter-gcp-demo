@@ -33,12 +33,12 @@ from google.api_core.exceptions import InvalidArgument
 
 # Get your twitter credentials from the environment variables.
 # These are set in the 'twitter-stream.json' manifest file.
-consumer_key = 'H60R9C9PL0uUE1Xogd8Md5Oi6'
-consumer_secret = 'WjH6wHocRtm8Jy5UTsCSQiYxT0JhFq6l3WSvsR4VlmAV3rqZF2'
-access_token = '195510105-HKa8nJovOBTDqjPJWJfsPD4Oz6sTFDQUe4BA9rlK'
-access_token_secret = 'AjTbjm4uV5GSnOWMfpgXwMLY8FN8qnZxR1EgZop21RY3a'
+consumer_key = '******************************'
+consumer_secret = '******************************'
+access_token = '******************************'
+access_token_secret = '******************************'
 
-PUBSUB_TOPIC = 'projects/onboard-cam-2018/topics/socialmedia-demo-topic'
+PUBSUB_TOPIC = 'projects/*******/topics/socialmedia-demo-topic'
 NUM_RETRIES = 3
 
 
