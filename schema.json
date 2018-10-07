@@ -38,5 +38,15 @@
     "name": "replycount",
     "type": "STRING",
     "mode": "NULLABLE"
+  },
+    {
+    "name": "score",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "magnitude",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
   }
 ]
