@@ -41,12 +41,12 @@
   },
     {
     "name": "score",
-    "type": "INTEGER",
+    "type": "FLOAT",
     "mode": "NULLABLE"
   },
   {
     "name": "magnitude",
-    "type": "INTEGER",
+    "type": "FLOAT",
     "mode": "NULLABLE"
   }
 ]
