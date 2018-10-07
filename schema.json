@@ -1,5 +1,10 @@
 [
   {
+   "name": "created_at",
+   "type": "STRING",
+   "mode": "NULLABLE"
+  },
+  {
     "name": "tweet",
     "type": "STRING",
     "mode": "NULLABLE"
@@ -21,6 +26,16 @@
   },
   {
     "name": "favoritecount",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "profileimage_url",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "replycount",
     "type": "STRING",
     "mode": "NULLABLE"
   }
