@@ -6,19 +6,19 @@ Run ttpsnl.py
 <br/>
 Setup instructions for Compute Engine 
 <br/>
-pip install --upgrade pip
+1.pip install --upgrade pip
 <br/>
-pip install tweepy
+2.pip install tweepy
 <br/>
-pip install --upgrade google-api-python-client
+3.pip install --upgrade google-api-python-client
 <br/>
-sudo pip install python-dateutil
+4.sudo pip install python-dateutil
 <br/>
-sudo pip install --upgrade oauth2client 
+5.sudo pip install --upgrade oauth2client 
 <br/>
-sudo pip install --upgrade google-cloud
+6.sudo pip install --upgrade google-cloud
 <br/>
-pip install google-cloud-language
+7.pip install google-cloud-language
 
 <br/>
 Setup Twitter Keys
