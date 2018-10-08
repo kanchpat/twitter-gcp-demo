@@ -1,24 +1,33 @@
 # twitter-gcp-demo
 Twitter GCP Demo for Onboard Cambridge 2018
 
-&nbsp;
+<br/>
 Run ttpsnl.py
+<br/>
 Setup instructions for Compute Engine 
+<br/>
 pip install --upgrade pip
+<br/>
 pip install tweepy
+<br/>
 pip install --upgrade google-api-python-client
+<br/>
 sudo pip install python-dateutil
+<br/>
 sudo pip install --upgrade oauth2client 
+<br/>
 sudo pip install --upgrade google-cloud
+<br/>
 pip install google-cloud-language
 
-&nbsp;
+<br/>
 Setup Twitter Keys
-&nbsp;
+<br/>
 Setup BigQuery
-&nbsp;
+<br/>
 Setup Cloud Storage
-&nbsp;
+<br/>
 Setup Dataflow with Templates (Pubsub to BigQuery)
 
+<br/>
 Visualize using Datastudio
