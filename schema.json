@@ -48,5 +48,30 @@
     "name": "magnitude",
     "type": "FLOAT",
     "mode": "NULLABLE"
+  },
+  {
+    "name": "mention_1",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mention_2",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mention_3",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mention_4",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mention_5",
+    "type": "STRING",
+    "mode": "NULLABLE"
   }
 ]
