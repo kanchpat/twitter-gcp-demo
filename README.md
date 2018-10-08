@@ -4,7 +4,7 @@ Twitter GCP Demo for Onboard Cambridge 2018
 <br/>
 Run ttpsnl.py
 <br/>
-Setup instructions for Compute Engine 
+**Setup instructions for Compute Engine **
 <br/>
 1.pip install --upgrade pip
 <br/>
