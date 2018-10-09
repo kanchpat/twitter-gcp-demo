@@ -73,5 +73,30 @@
     "name": "mention_5",
     "type": "STRING",
     "mode": "NULLABLE"
+  },
+  {
+    "name": "id_str",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "in_reply_to_status_id_str",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "quoted_status_id_str",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "quoted_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+    {
+    "name": "retweeted_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
   }
 ]
