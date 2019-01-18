@@ -32,4 +32,3 @@ Setup Dataflow with Templates (Pubsub to BigQuery)
 <br/>
 Visualize using Datastudio
 
-[Instructions] (https://docs.google.com/document/d/1qcJudM5r42sekyu6bR3ZUVb-Lp2wVEClUmyKp4DJngE/edit?usp=sharing)
